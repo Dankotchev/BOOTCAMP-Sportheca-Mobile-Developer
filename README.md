@@ -12,15 +12,15 @@ _08 / 41 Concluídos_
 - [x] 3. Introdução ao Git e ao GitHub
 - [x] 4. Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 - [x] 5. Dominando IDEs Java
-- [ ] 6. Estrutura de Dados em Java: Introdução
-- [ ] 7. Estrutura de Dados em Java: Pilhas e Filas
-- [ ] 8. Estrutura de Dados em Java: Lista
-- [ ] 9. Estrutura de Dados em Java: Árvores
-- [ ] 10. Estrutura de Dados em Java: Principais Implementações
-- [ ] 11. Introdução a Orientação a Objetos com Java
-- [ ] 12. [Desafio de Projeto](): Criando um Banco Digital com Java e Orientação a Objetos
-- [ ] 13. Debugging Java
-- [ ] 14. Tratamento de Exceções em Java
+- [x] 6. Estrutura de Dados em Java: Introdução
+- [x] 7. Estrutura de Dados em Java: Pilhas e Filas
+- [x] 8. Estrutura de Dados em Java: Lista
+- [x] 9. Estrutura de Dados em Java: Árvores
+- [x] 10. Estrutura de Dados em Java: Principais Implementações
+- [x] 11. Introdução a Orientação a Objetos com Java
+- [x] 12. [Desafio de Projeto](https://github.com/Dankotchev/BOOTCAMP-Sportheca-Mobile-Developer/tree/main/Desafios%20de%20Projetos/Criando%20um%20Banco%20de%20Digital%20com%20Java%20e%20Orienta%C3%A7%C3%A3o%20a%20Objetos): Criando um Banco Digital com Java e Orientação a Objetos
+- [x] 13. Debugging Java
+- [x] 14. Tratamento de Exceções em Java
 - [ ] 15. Trabalhando com Collections Java
 - [ ] 16. [Desafio de Código](): Desafios em Java - Sportheca
 - [ ] 17. [Desafio de Projeto](): Abstraindo um Bootcamp Usando Orientação a Objetos em Java
